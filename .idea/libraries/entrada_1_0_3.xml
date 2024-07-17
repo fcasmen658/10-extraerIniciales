@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="entrada-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/entrada-1.0.3.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Librerias" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Librerias" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Librerias" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Librerias" recursive="false" type="SOURCES" />
+  </library>
+</component>
