@@ -15,9 +15,10 @@ public class extraerIniciales {
         }
 // Salida por pantalla
         System.out.println((" ").repeat(10));
-        System.out.print("El nombre completo es: " + nombre);
+        System.out.print("El nombre completo es: " + "\033[1m" + "\033[36m" + nombre + "\033[0m");
         System.out.println();
-        System.out.print("Las iniciales del nombre son: " + iniciales);
+        System.out.print("Las iniciales del nombre son: " + "\033[1m \033[36m" + iniciales + "\033[0m");
+        System.out.println();
         System.out.println((" ").repeat(10));
     }
 }
